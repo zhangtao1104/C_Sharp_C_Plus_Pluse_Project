@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{2DC41C5A-B7C4-CF23-DAFD-21818A6AF7C7}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/NativeBridge.cs">
+    <Files>
+      <File FileName="Assets/NativeBridge.cs" Line="45" Column="1" />
+      <File FileName="Assets/HelloUnity.cs" Line="41" Column="49" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="C_Sharp_Call_C_Plus_Plus" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="NativeBridge.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>peoples.count</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.C__Sharp__Call__C__Plus__Plus PreferredExecutionTarget="7be18436-91be-4f50-8f9b-4247a9ae0d9a" />
+</Properties>
